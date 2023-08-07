@@ -1,8 +1,8 @@
 {
   "name": "mini_project2",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "miniproject 2 creating backend for capstone and developing node.js/express app to manage the mysql database",
+  "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node server.js",
