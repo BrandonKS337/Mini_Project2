@@ -7,3 +7,13 @@ How to run this
  - run "npm run server" // alt npm run dev depending on deployment choice
 
  should fire up so long as those base steps are taken
+
+ postman templates
+ create creatures
+{
+    "creatureName": "Killer Cow",
+    "type": "medium-size mammal",
+    "armorClass": 92,
+    "healthPoints": 576,
+    "damageOutput": "35 d20"
+ }
